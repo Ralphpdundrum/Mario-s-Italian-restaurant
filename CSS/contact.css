@@ -1,0 +1,123 @@
+body {
+    background-color: rgba(250, 235, 215, 0.582);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* The start of the styling for the header*/
+header {
+    height: 60px;
+    width: 1000px;
+    background-color: rgba(0, 0, 0, 0.541);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.logo {
+    height: 50px;
+}
+
+header a{
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+/* The end of the styling for the header*/
+
+/* The start of the styling for the main*/
+main {
+    height: 1000px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+main div {
+    padding-top: 30px;
+}
+
+main h1 {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+main p {
+    text-align: center;
+    color: black;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.email {
+    text-decoration: underline;
+    color: black;
+}
+
+.tel {
+    text-decoration: underline;
+    color: black;
+}
+
+.whatsapp {
+    text-decoration: underline;
+    color: black;
+}
+
+.facebook {
+    text-decoration: underline;
+    color: black;
+}
+
+/* The end of the styling for main */
+
+/* The start of the styling for footer*/
+footer {
+    background-color: rgba(0, 0, 0, 0.137);
+    height: 200px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer p {
+    word-wrap: break-word;
+}
+
+.text_box_left {
+    height: 200px;
+    width: 300px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.text_box_left div {
+    padding-top: 30px;
+}
+
+.map {
+    height: 200px;
+    width: 400px;
+    margin-top: -200px;
+    margin-left: 300px;
+    margin-bottom: 14px;
+}
+
+.text-box_right {
+    height: 200px;
+    width: 300px;
+    margin-left: 700px;
+    margin-top: -218px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.text-box_right div {
+    padding-top: 4px;
+}
+/* The end of the styling for the footer*/
